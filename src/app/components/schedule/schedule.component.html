@@ -1,0 +1,8 @@
+
+<div>
+  <section *ngFor="let band of bands">
+    <h2>{{band.time}}</h2>
+    <h2 class="name"><a target="_black" href="{{band.link}}">{{band.name}}</a></h2>
+  </section>
+  <h2 class="timezone">All times in {{timezone}}</h2>
+</div>

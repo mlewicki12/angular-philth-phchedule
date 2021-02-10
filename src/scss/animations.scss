@@ -1,0 +1,14 @@
+
+@keyframes hover-link {
+  from {
+    color: linear-gradient(0deg, white 10%, black);
+  }
+
+  50% {
+    color: linear-gradient(0deg, white 50%, black);
+  }
+
+  to {
+    color: black;
+  }
+}

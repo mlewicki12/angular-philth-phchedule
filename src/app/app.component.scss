@@ -1,0 +1,14 @@
+
+main {
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: center;
+  justify-content: space-between;
+
+  font-family: 'anzeigen', sans-serif;
+  text-transform: uppercase;
+}
+
+app-title {
+  padding-bottom: 2rem;
+}

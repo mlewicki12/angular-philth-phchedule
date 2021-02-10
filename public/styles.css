@@ -1,15 +1,14 @@
-
 @font-face {
   font-family: anzeigen;
-  src: url('assets/fonts/anzeigen-grotesk.otf');
+  src: url('anzeigen-grotesk.otf');
 }
-
 body {
   margin: 0;
   padding: 0;
-
-  background-image: url('assets/daydrunks.JPG');
+  background-image: url('daydrunks.JPG');
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
+
+/*# sourceMappingURL=styles.css.map*/
