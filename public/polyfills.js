@@ -7,7 +7,7 @@
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\Users\lewic\OneDrive\desktop\development\angular\philth-schedule\src\polyfills.ts */"hN/g");
+module.exports = __webpack_require__(/*! C:\Users\lewic\OneDrive\Desktop\development\angular\philth-schedule\src\polyfills.ts */"hN/g");
 
 
 /***/ }),
